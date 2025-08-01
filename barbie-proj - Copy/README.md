@@ -50,9 +50,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/0ky3y7S.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://i.imgur.com/0ky3y7S.gif'>
+link: https://i.imgur.com/0ky3y7S.gif
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  ezgif and imgur
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
